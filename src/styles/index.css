@@ -1,0 +1,30 @@
+/* @title: <<gatsby-002-env-variable-v2>> program written in gatsby-JS.
+ * @desc: Creates a simple helloWorld started with environment variables.
+ * @author: Mustapha Benmbarek.
+ * @Copyright © 2019 All rights reserved.
+ * @version: 1.0.
+ */
+
+h1 {
+  font-family: monospace;
+  font-weight: 700px;
+  font-size: 9em;
+  margin:50px 50px 0px 50px;
+  color:#a100ff;
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 3em;
+  font-weight: 700px;
+  margin:0px 0px 0px 50px;
+  color:#000;
+}
+
+p {
+  font-family: monospace;
+  font-size: 1.65em;
+  font-weight: 700px;
+  margin:100px 0px 0px 50px;
+  color:#333;
+}
