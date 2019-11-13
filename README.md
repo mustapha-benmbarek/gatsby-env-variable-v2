@@ -13,7 +13,7 @@ Gatsby is a blazing fast modern site generator for React. Gatsby is a free and o
 git clone https://github.com/mustapha-benmbarek/gatsby-002-env-variable-v2
 cd gatsby-002-env-variable-v2
 npm install 
-gatsby develop
+gatsby develop OR npm develop
 ```
 
 ### Support
