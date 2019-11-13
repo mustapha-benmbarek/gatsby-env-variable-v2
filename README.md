@@ -1,4 +1,4 @@
-# Gatsby / Environment Variables v2
+# Gatsby / Environment Variables (advanced)
 
 ### What is in there
 This GitHub repository is just a simple web app starter using environment variables (advanced).
