@@ -1,4 +1,4 @@
-# Gatsby / Environment Variables (advanced)
+# Gatsby / Environment Variables (advanced) <img valign="bottom" align="right" height="35px" widht="35px" src="https://www.gatsbyjs.org/gatsby-monogram.svg" />
 
 ### What is in there
 This GitHub repository is just a simple web app starter using environment variables (advanced).
