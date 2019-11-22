@@ -1,4 +1,4 @@
-# Gatsby / Environment Variables (advanced) <img valign="bottom" align="right" height="35px" widht="35px" src="https://www.gatsbyjs.org/gatsby-monogram.svg" />
+# Gatsby : Environment Variables (advanced) <img valign="bottom" align="right" height="35px" widht="35px" src="https://www.gatsbyjs.org/gatsby-monogram.svg" />
 
 ### What is in there
 This GitHub repository is just a simple web app starter using environment variables (advanced).
@@ -10,8 +10,8 @@ Gatsby is a blazing fast modern site generator for React. Gatsby is a free and o
 
 ### How make it run
 ```
-git clone https://github.com/mustapha-benmbarek/gatsby-002-env-variable-v2
-cd gatsby-002-env-variable-v2
+git clone https://github.com/mustapha-benmbarek/gatsby-env-variable-v2
+cd gatsby-env-variable-v2
 npm install 
 gatsby develop OR npm develop
 ```
